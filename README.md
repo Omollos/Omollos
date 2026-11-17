@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Steve Omondi 👋
 
-<!--
-**Omollos/Omollos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | ICT Management Graduate
 
-Here are some ideas to get you started:
+I'm interested in backend development, Linux systems, cloud infrastructure and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Portfolio & Projects
+
+- 🌍 [Loba – Community-built Dholuo language corpus](https://loba-six.vercel.app)
+- 💻 [GitHub Projects](https://github.com/Omollos)
+
+### Technologies
+
+Go | Python | PostgreSQL | Docker | Linux | Git | JavaScript
+
+### Currently Exploring
+
+Cloud infrastructure, DevOps practices, automation and CI/CD.
